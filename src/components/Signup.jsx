@@ -1,6 +1,7 @@
 import React from "react";
 import Setup from "./Setup";
 
+
 const Signup = () => {
   const {
     formData,
